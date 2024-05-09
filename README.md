@@ -15,7 +15,7 @@
 
 - 😊 Pronouns: He/Him </br>
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.</br>
-- 🌱 I learnt Node JS in the [Backend Engineering](https://engineering.altschoolafrica.com/programs/backend-engineering) track</br>
+- 🌱 I learnt Node JS in the [Backend Engineering](https://engineering.altschoolafrica.com/programs/backend-engineering) track.</br>
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.</br>
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).</br>
 - 📫 How to reach me <a href = "mailto: sen4word@gmail.com"><b>sen4word@gmail.com</b></a>
