@@ -30,7 +30,8 @@
 <code><img height="20" alt="nodejs" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*djs41LAhXT2CsokWjtofRQ.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="handlebars" src="https://handlebarsjs.com/images/handlebars_logo.png"></code>
-<code><img height="20" alt="ejs" src="https://icons8.com/icon/puL87ypQPxxr/ejs"></code>
+<code><img height="20" alt="ejs" src="![image](https://github.com/sensamie1/sensamie1/assets/133608378/c0bfcdfb-5d56-4ece-abdc-f3d8a0e7d3af)
+"></code>
 
 
 
