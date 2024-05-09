@@ -27,7 +27,9 @@
 <code><img height="20" alt="tailwindcss" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" alt="node.js" src="https://raw.githubusercontent.com/github/explore/57c8b3551ae204d757b2ba55f2557f2fa5a2b9f5/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="nodejs" src="[https://raw.githubusercontent.com/github/explore/57c8b3551ae204d757b2ba55f2557f2fa5a2b9f5/topics/nodejs/nodejs.png](https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png)"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="handlebars" src="https://handlebarsjs.com/images/handlebars_logo.png"></code>
 <code><img height="20" alt="ejs" src="https://raw.githubusercontent.com/github/explore/2e62b2ab1c876b7d72e16adcf7e091e19accc01a/topics/ejs/ejs.png"></code>
 
 
