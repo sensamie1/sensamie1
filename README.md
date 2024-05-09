@@ -27,10 +27,10 @@
 <code><img height="20" alt="tailwindcss" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" alt="nodejs" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg"></code>
+<code><img height="20" alt="nodejs" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*djs41LAhXT2CsokWjtofRQ.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="handlebars" src="https://handlebarsjs.com/images/handlebars_logo.png"></code>
-<code><img height="20" alt="ejs" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-8c5bXmKhpKg8NRnBMu0zQ.gif"></code>
+<code><img height="20" alt="ejs" src="https://icons8.com/icon/puL87ypQPxxr/ejs"></code>
 
 
 
